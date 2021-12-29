@@ -8,6 +8,10 @@ Use the package manger [pip](http://google.com) to instal foobar
 
 
 
+
+
     pip install foobar
+
+
 
 
