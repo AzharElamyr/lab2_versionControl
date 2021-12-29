@@ -11,14 +11,4 @@ Use the package manger [pip](http://google.com) to instal foobar
 
 
     pip install foobar
-
-```
-import foobar 
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'gees'
-foobar.singularize('phenomena') # returns 'phenomena'
-
-```
-
-
+    
