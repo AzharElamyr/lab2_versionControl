@@ -4,6 +4,7 @@
 
 
 
+
 # Foober
 Foober is a Python library for dealing with word pluralization
 
@@ -79,13 +80,13 @@ please make sure to update tests as appopria.
 
 
 
-B
-B
-B
-A
-A
-A
-A
-A
-A
+
+
+
+
+
+
+
+
+
 
