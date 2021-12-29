@@ -1,4 +1,5 @@
 
+
 I
 
 
@@ -17,7 +18,9 @@ Use the package manger [pip](http://google.com) to instal foobar
     pip install foobar
 
 
-#Usage
+
+
+## Usage
 
 
 ```
@@ -28,7 +31,9 @@ foobar.pluralize('goose') # returns 'gees'
 foobar.singularize('phenomena') # returns 'phenomena'
 
 ```
-#contributing
+
+
+## contributing
 
 pull requset are welcome.For major change ,please open an isuue first to discuss what you would like to change 
 
@@ -36,7 +41,10 @@ pull requset are welcome.For major change ,please open an isuue first to discuss
 
 please make sure to update tests as appopria.
 
-#License 
+
+## License 
+
+ 
 
 [MIT](http:.//google.com)
 
@@ -47,11 +55,11 @@ please make sure to update tests as appopria.
 
 
 
-B
-B
-B
-C
-B
+
+
+
+
+
 C
 C
 C
