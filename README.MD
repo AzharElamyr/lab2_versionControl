@@ -1,6 +1,7 @@
 
 
-I
+
+
 
 
 # Foober
@@ -48,6 +49,7 @@ please make sure to update tests as appopria.
 
 [MIT](http:.//google.com)
 
+![](https://commonmark.org/help/images/favicon.png)
 
 
 
@@ -60,11 +62,10 @@ please make sure to update tests as appopria.
 
 
 
-C
-C
-C
-D
-[MIT](hhttp://google.com)
+
+
+
+
 
 
 
@@ -76,8 +77,8 @@ D
     
 
 
-B
-B
+
+
 B
 B
 B
